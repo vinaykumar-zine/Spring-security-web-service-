@@ -1,4 +1,4 @@
-# 🔐 Spring Boot Security Full-Feature Demo
+# 🔐 Spring Boot Security Full-Feature Demo (currently working on the project, don't use as it is)
 
 This Spring Boot project demonstrates a full-fledged security setup using **Spring Security**. It features:
 
